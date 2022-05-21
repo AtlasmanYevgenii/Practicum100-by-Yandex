@@ -1,5 +1,7 @@
 # Project_01. Analyzing borrowers' risk of defaulting
 
+[Click here to check out the project using nbviewer (recommended)](https://nbviewer.org/github/AtlasmanYevgenii/Practicum100-by-Yandex/blob/dcbb5b1c0c90f1c6b9dd7a8209ef9fd6d6ee2ebe/1.%20Analyzing%20borrowers%E2%80%99%20risk%20of%20defaulting.ipynb#chapter00)
+
 Our project is to prepare a report for a bank's loan division. We'll need to find out if a customer's marital status and number of children has an impact on whether they will default on a loan. The bank already has some data on customers' credit worthiness.
 
 The main aim of the project is to build a credit scoring of a potential customer. The credit scoring is used to evaluate the ability of a potential borrower to repay their loan.
