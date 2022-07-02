@@ -4,7 +4,7 @@
 
 Our project is to prepare a report for a bank's loan division. We'll need to find out if a customer's marital status and number of children has an impact on whether they will default on a loan. The bank already has some data on customers' credit worthiness.
 
-The main aim of the project is to build a credit scoring of a potential customer. The credit scoring is used to evaluate the ability of a potential borrower to repay their loan.
+The main aim of the project is to build a credit score for a potential customer. Credit scoring is used to evaluate the ability of a potential borrower to repay their loan.
 
 **Plan of our work**
 
