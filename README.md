@@ -47,7 +47,7 @@ The telecom operator Megaline offers its clients two prepaid plans, Surf and Ult
 
 **Project description**
 
-We work for the online store Ice, which sells video games all over the world. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. We need to identify patterns that determine whether a game succeeds or not. This will allow us to spot potential big winners and plan advertising campaigns.
+We are part of an analytics team at the online store Ice that sells video games worldwide. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. Our goal is to identify the patterns that determine whether a game succeeds or fails. As a result, we will be able to spot potential big winners and plan advertising campaigns accordingly.
 
 We have data for 2016 year. Now it’s December 2016 and we're planning a campaign for 2017.
 
