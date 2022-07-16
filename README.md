@@ -45,7 +45,7 @@ The telecom operator Megaline offers its clients two prepaid plans, Surf and Ult
 
 # Project_04. Identifying patterns of successful video games
 
-[Click here to check out the project using nbviewer (recommended)](https://nbviewer.org/github/AtlasmanYevgenii/Practicum100-by-Yandex/blob/main/4.%20Identifying%20patterns%20of%20successful%20games.ipynb#previous100)
+[Click here to check out the project using nbviewer (recommended)](https://nbviewer.org/github/AtlasmanYevgenii/Practicum100-by-Yandex/blob/dcbb5b1c0c90f1c6b9dd7a8209ef9fd6d6ee2ebe/1.%20Analyzing%20borrowers%E2%80%99%20risk%20of%20defaulting.ipynb#back1)
 
 **Project description**
 
