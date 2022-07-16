@@ -51,6 +51,8 @@ We are part of an analytics team at the online store Ice that sells video games 
 
 We have data for 2016 year. Now it’s December 2016 and we're planning a campaign for 2017.
 
+As a final recommendation, we advice focusing advertising campaigns on games for the PS4 in Europe and the XOne in North America. It is recommended that these games be of the genres of Action and Shooter and have an ESRB rating of Everyone or 17+. In Japan, the best choice would be to use a game for portable device - the Nintendo 3DS - and games for it of Japanese production in the role-playing genre. Worth paying attention on games with good critics review.
+
 # Project_05. Optimization marketing expenses for Yandex.Afisha
 
 We are doing an internship in the analytical department at Yandex.Afisha. Our first task is to help optimize marketing expenses.
