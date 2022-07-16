@@ -45,6 +45,8 @@ The telecom operator Megaline offers its clients two prepaid plans, Surf and Ult
 
 # Project_04. Identifying patterns of successful video games
 
+[Click here to check out the project using nbviewer (recommended)](https://nbviewer.org/github/AtlasmanYevgenii/Practicum100-by-Yandex/blob/main/4.%20Identifying%20patterns%20of%20successful%20games.ipynb#previous100)
+
 **Project description**
 
 We are part of an analytics team at the online store Ice that sells video games worldwide. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. Our goal is to identify the patterns that determine whether a game succeeds or fails. As a result, we will be able to spot potential big winners and plan advertising campaigns accordingly.
