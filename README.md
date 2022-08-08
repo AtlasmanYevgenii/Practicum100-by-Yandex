@@ -31,5 +31,15 @@ We are part of an analytics team at the online store Ice that sells video games 
 
 We have data up to the 2016 year. Currently, it is December 2016 and we are planning an advertising campaign for 2017.
 
+Project structure
+
+1. Data preprocessing 
+2. Data analysis (sales per platforms, genres, correlation between reviews and total sales)
+3. Creating a user profile per region (top platforms, genres, critics and users reviews)
+4. Testing hypotheses
+5. General conclusion and recommendation
+
 In conclusion, we advise focusing advertising campaigns on games for the PS4 in Europe and the XOne in North America. It is recommended that these games be Action and Shooter genres and have an ESRB rating of Everyone or 17+. In Japan, the best choice would be to use a game for portable device - the Nintendo 3DS - and games for it of Japanese production in the role-playing genre. Worth paying attention to games with good critics reviews.
+
+
 
